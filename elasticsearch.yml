@@ -34,7 +34,7 @@ path.data: C:\ProgramData\chocolatey\lib\elasticsearch\data
 #
 Path to log files:
 #
-#path.logs: C:\ProgramData\chocolatey\lib\elasticsearch\logs
+path.logs: C:\ProgramData\chocolatey\lib\elasticsearch\logs
 #
 # ----------------------------------- Memory -----------------------------------
 #
